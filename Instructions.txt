@@ -1,0 +1,30 @@
+To run the application:
+
+1) install node.js and npm
+
+https://nodejs.org/en/download/package-manager
+
+Confirm installation through
+  >node -v
+  >npm -v 
+
+2)ide installation
+download visual studio code
+https://code.visualstudio.com/download
+
+3) copy the project to your local directory
+
+4) install dependencies 
+
+Open terminal and navigate to project path and run commands
+>npm install
+>npm install react-dom
+>npm install react-router-dom
+
+5) run the server
+
+> npm run dev/ npm start
+
+6) deployment
+
+https://create-react-app.dev/docs/deployment/
